@@ -351,7 +351,7 @@ If you have a different question, please ask using [Discussions](https://github.
    If you are deploying a personal or organization website, leave `baseurl` blank.
    If you are deploying a project page, set `baseurl: /<your-project-name>/`.
 
-4. **Q:** Atom feed doesn't work. Why?
+4. **Q:** Atom feed doesn't work. Why?? 
    <br>
    **A:** Make sure to correctly specify the `url` and `baseurl` paths in `_config.yml`.
   RSS Feed plugin works with these correctly set up fields: `title`, `url`, `description` and `author`.
